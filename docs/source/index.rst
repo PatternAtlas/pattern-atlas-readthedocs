@@ -33,6 +33,7 @@ Features
    features/pattern-views
    features/pattern-graph
    features/quantum-circuits
+   features/design-model
 
 * Custom :doc:`features/language-definition`
 * Simple :doc:`features/pattern-creation`
@@ -40,7 +41,7 @@ Features
 * Custom :doc:`features/pattern-views`
 * Adjustable :doc:`features/pattern-graph` for pattern languages and pattern views
 * :doc:`Quantum Circuit<features/quantum-circuits>` rendering
-
+* :doc:`Design Models<features/design-model>` for modelling a software architecture with Patterns and aggregate its implementations
 
 
 .. _Learn more about the Pattern Atlas concept: https://arxiv.org/ftp/arxiv/papers/2006/2006.05120.pdf
