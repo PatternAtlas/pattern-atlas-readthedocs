@@ -1,0 +1,23 @@
+site_name: Pattern Atlas
+nav:
+  - User Guide:
+      - 'Overview': 'user_guide/overview.md'
+      - 'Pattern Languages': 'user_guide/pattern-languages.md'
+      - 'Patterns': 'user_guide/patterns.md'
+      - 'Pattern Relations': 'user_guide/pattern-relations.md'
+      - 'Pattern Graph': 'user_guide/pattern-graph.md'
+      - 'Pattern Views': 'user_guide/pattern-views.md'
+      - 'Design Models': 'user_guide/design-model.md'
+      - 'Quantum Circuits': 'user_guide/quantum-circuits.md'
+
+  - Developer Guide:
+      - 'Quickstart': 'dev_guide/quickstart.md'
+      - 'Development Setup': 'dev_guide/development-setup.md'
+      - 'Design Models': 'dev_guide/design-model.md'
+
+theme: readthedocs
+extra_css:
+  - style.css
+markdown_extensions:
+  - admonition
+  - attr_list
