@@ -22,3 +22,4 @@ markdown_extensions:
   - admonition
   - attr_list
 repo_url: https://github.com/PatternAtlas/pattern-atlas-readthedocs
+edit_uri: root/path/docs/
