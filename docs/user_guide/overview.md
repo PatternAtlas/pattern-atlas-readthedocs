@@ -1,4 +1,5 @@
-# Welcome to The QC Atlas User Guide
+# Welcome to the Pattern Atlas User Guide
+
 ## Content
 * [Overview](../user_guide/overview.md)
 * [Pattern Languages](../user_guide/pattern-languages.md)
